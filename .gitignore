@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Large model files
+*.keras
+*.h5
+*.dylib
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.pub/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
